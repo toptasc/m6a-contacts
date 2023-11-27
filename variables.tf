@@ -5,5 +5,5 @@ variable "instance_type" {
   default = "t2.micro"
 }
 variable "token" {
-  default = "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"
+  default = "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"
 }
